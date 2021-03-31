@@ -31,7 +31,8 @@ input[type=radio] {
   width: 100px;
   /* height: 100px; */
   left: 2000px;
-  top: -220px;
+  /* top: -220px; */
+  top: -380px;
 }
 
 .img3 {
@@ -42,7 +43,8 @@ input[type=radio] {
   height: 75vh;
 
   left: 2000px;
-  top: -190px;
+  /* top: -190px; */
+  top: -340px;
 }
 
 a.btn--bak {
