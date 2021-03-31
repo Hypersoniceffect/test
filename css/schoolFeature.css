@@ -28,17 +28,30 @@
     height: 100%;
   }
 
+  .price{
+    font-size: 27.5px;
+    line-height:2.5;
+  }
+
 
 @media screen and (max-width: 768px) {
 
   .background{
     height: 20vh;/*高さ制限*/
   }
+
+  .price{
+    font-size: 24px;
+  }
 }
 @media screen and (max-width: 830px) {
 
   .background{
     height: 30vh;/*高さ制限*/
+  }
+
+  .price{
+    font-size: 24px;
   }
 
 }
@@ -48,7 +61,6 @@
   .background{
     height: 20vh;/*高さ制限*/
   }
-
 }
 @media screen and (min-height: 700px) and (max-width: 1024px) {
 
@@ -93,12 +105,6 @@
   text-align: center ;
   line-height:0;
   color: #fff;
-}
-
-
-.price{
-  font-size: 30px;
-  line-height:2.5;
 }
   
 table{
