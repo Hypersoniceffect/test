@@ -11,9 +11,9 @@ body {
   background-color: rgb(230, 255, 250);
 }
 
-p {
+/* p {
   line-height: 1.7;
-}
+} */
 
 main {
   /* クラス外側余白 */
