@@ -33,6 +33,13 @@
     line-height:2.5;
   }
 
+  .comment{
+    padding: 0.5em;
+    background: #f0f0f2;
+    /* box-shadow: 0 0 4px rgba(0, 0, 0, 0.383); */
+    margin-bottom: 10px;
+  }
+
 
 @media screen and (max-width: 768px) {
 
